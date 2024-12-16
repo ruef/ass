@@ -47,4 +47,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           directory: "."
-          github_token: ${{ secrets.HB_TOKEN }}
+          github_token: ${{ secrets.RAJA_OMBAK_WKWKW }}
