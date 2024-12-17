@@ -29,8 +29,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "muhammadnbillz@gmail.com"
-          git config --local user.name "nabildzr"
+          git config --local user.email "mramdani298@smp.belajar.id"
+          git config --local user.name "M. Nabil Dzikrika Ramdani"
           git add -A
           
           arr[0]="💜"
